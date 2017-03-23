@@ -1,2 +1,0 @@
-# testsassjs.github.io
-test
